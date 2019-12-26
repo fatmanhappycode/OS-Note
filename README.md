@@ -5,3 +5,4 @@
 2. [进程的描述与控制](http://naotu.baidu.com/file/393228a89856f4501121890f4f9d6b88?token=892af246d51f10b0)
 3. [处理机调度的层次和调度算法的目标](http://naotu.baidu.com/file/7ae3a45d57a8f472ba06a58599c0cc63?token=0af6f3081083651f)
 4. [存储器管理](http://naotu.baidu.com/file/6204a564a04851b0e2c47c4ebf39da0b?token=af918da5d31f1563)
+5. [虚拟存储器](http://naotu.baidu.com/file/160ad4a9be76d619f643284eddf8b5b5?token=5082a322a1f0089a) 
