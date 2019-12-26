@@ -6,3 +6,5 @@
 3. [处理机调度的层次和调度算法的目标](http://naotu.baidu.com/file/7ae3a45d57a8f472ba06a58599c0cc63?token=0af6f3081083651f)
 4. [存储器管理](http://naotu.baidu.com/file/6204a564a04851b0e2c47c4ebf39da0b?token=af918da5d31f1563)
 5. [虚拟存储器](http://naotu.baidu.com/file/160ad4a9be76d619f643284eddf8b5b5?token=5082a322a1f0089a) 
+
+7. [文件管理](http://naotu.baidu.com/file/a6cdc82d707989f8441b8f6cb4c7e1ab?token=560b619c61971f7d)
